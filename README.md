@@ -1,3 +1,5 @@
+*Bom Dia!*
+
 Meu nome é Guilherme de Oliveira 🧮
 
 Estou estudando na Alura
